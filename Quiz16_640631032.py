@@ -4,7 +4,7 @@
 @author: Nattapat Tangniyom 640631032
 """
 
-m,n = input("Enter the numbers of m and n: ").split()
+m,n = input("Enter the numbers of column and row: ").split()
 m = int(m)
 n = int(n)
 matrix = []
